@@ -1,4 +1,4 @@
-The Car Rental System is a Java-based project that provides a simple solution for managing car rentals. It allows users to check the availability of cars, reserve a car for a specific date range, return rented cars, and view the list of currently rented cars. This project is designed to be beginner-friendly, covering essential functionalities to help users understand basic concepts of Java programming.
+The Car Rental System is a Java-based project that provides a simple solution for managing car rentals. It allows users to check the availability of cars, reserve a car for a specific date range, return rented cars, and view the list of currently rented cars. This project is designed to be beginner-friendly, covering essential functionalities to help users understand basic concepts of Java programming. 
 
 Instructions:
 
